@@ -16,7 +16,7 @@ Tras realizar pruebas de estabilidad térmica, los valores óptimos encontrados 
 ## 📊 Gráfica de Resultados
 A continuación se muestra la curva de calentamiento y estabilización de la habitación al aplicar el controlador PID hasta alcanzar el *setpoint* de 24°C:
 
-![Gráfico del Control PID](grafico_pid.png).
+![Gráfico del Control PID](Control-Temp-Graphic.png).
 
 ---
 *Desarrollado en Python usando las librerías NumPy y Matplotlib.*
